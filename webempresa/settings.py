@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-8=u-$q*)ht4s8#6x7uko3yj_pm0njo(ugg+-d&npncarod2tp4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cafeteria-production.up.railway.app']
 
 
 # Application definition
